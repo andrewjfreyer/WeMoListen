@@ -298,11 +298,11 @@ sub sendPushover{
 		
 		LWP::UserAgent->new()->post(
   		"https://api.pushover.net/1/messages.json", [
-		"token" => "iIrKNmbnA45b9JCT3S0KtCNBQH3bC8",
-		"user" => "oMpBEUgLL5djk8D0RqB4HB1TeqyzFz",
+		"token" => "TOKEN",
+		"user" => "USERNAME",
 		"message" => $message,
 		"title" => "WeMo",
-		"url" => "http://67.165.232.34/",
+		"url" => "URL",
 		"url_title" => "View Activity",
 		]
 		);
