@@ -1,12 +1,12 @@
 WeMoListen
 =======
 
-**NOTE: This project is not maintained**
+***NOTE: This project is retired; it is not maintained.***
 
 Perl Listener for [WeMo Devices](http://www.belkin.com/us/Products/home-automation/c/wemo-home-automation/)
 
 * Designed around Perl UPnP
-* Designed for [Raspberry Pi](http://www.raspberrypi.org/) with a cheap [Bluetooth Dongle](http://www.amazon.com/SANOXY%C2%AE-Bluetooth-Wireless-Adapter-eMachine/dp/B003VWU79I/ref=pd_sim_pc_1?ie=UTF8&refRID=16KWQH2VYRTN82GTNS70). 
+* Designed for [Raspberry Pi](http://www.raspberrypi.org/)
 * Operable to save & log WeMo data (*e.g.,* on/off, motion)
 * Works with [PushOver](http://www.pushover.net) service for alerts & notifications
 
